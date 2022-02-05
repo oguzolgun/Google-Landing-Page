@@ -1,9 +1,9 @@
 # Google-Landing-Page
 <img src="https://github-readme-stats.vercel.app/api?username=frcihan&show_icons=true&theme=tokyonight" align='right' width="25%">
 ## Hi there :wave:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=frcihan" alt="frcihan" /> </p>
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arif-%C3%B6zkan-%C3%B6zt%C3%BCrk-3503191b2/)
-[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Arif0zkan)
+<p align="left"> <img src="" alt="" /> </p>
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/o%C4%9Fuz-olgun-a002ba78/)
+[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)]
 <img src="./animation_500_kd7ngokt.gif" alt="react-native" width="20%" height="20%" align="right">
 - :telescope: I’m currently learning frontend. (JavaScript | React | React Native)
 - :seedling: I’m currently learning backend development (Node.js | MongoDB | Django)
